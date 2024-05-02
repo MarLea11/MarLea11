@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ml.paglia96@gmail.com
 
 ## **Programming Languages & Tools:**
-- **Java**
+- **Java + Spring**
 - **MySQL**
 - **MongoDB**
 - **Maven & Gradle**
