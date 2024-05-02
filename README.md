@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 
 ## **Programming Languages & Tools:**
 - **Java**
+- **MySQL**
+- **MongoDB**
+- **Maven & Gradle**
+- **JUnit**
