@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Backend Developing in JAVA
 - 📫 How to reach me: ml.paglia96@gmail.com
 
-Programming Languages & Tools:
+## **Programming Languages & Tools:**
 - **Java**
