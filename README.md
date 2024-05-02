@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning Backend Developing in JAVA
 - 📫 How to reach me: ml.paglia96@gmail.com
 
